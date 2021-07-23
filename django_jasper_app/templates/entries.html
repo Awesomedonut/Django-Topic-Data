@@ -1,0 +1,7 @@
+<ul>
+    {% for entry in entries %}
+        <li>{{ entry }}</li>
+    {% empty %}
+        <li>No entries have been added yet.</li>
+    {% endfor %}
+</ul>
