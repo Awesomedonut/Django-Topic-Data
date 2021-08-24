@@ -1,2 +1,1 @@
-# Django-Topic-Data
-First Django demo
+How to run: python3 manage.py runserver
